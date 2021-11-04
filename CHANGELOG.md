@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/compute?activeTab=versions
 
+## [3.1.0](https://www.github.com/googleapis/nodejs-compute/compare/v3.0.0...v3.1.0) (2021-11-04)
+
+
+### Features
+
+* add minimum wrapper for compute LRO method ([#618](https://www.github.com/googleapis/nodejs-compute/issues/618)) ([2fa4f93](https://www.github.com/googleapis/nodejs-compute/commit/2fa4f93d6d0c1a67e6f1223d2a3715529b2519a5))
+
+
+### Bug Fixes
+
+* **docs:** increase memory for reference doc generation ([#615](https://www.github.com/googleapis/nodejs-compute/issues/615)) ([5e63ce4](https://www.github.com/googleapis/nodejs-compute/commit/5e63ce4734686007f98f449f25807134274d0f0a))
+
 ## [3.0.0](https://www.github.com/googleapis/nodejs-compute/compare/v2.6.0...v3.0.0) (2021-08-17)
 
 
